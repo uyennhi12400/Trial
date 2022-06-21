@@ -1,0 +1,35 @@
+.btn{
+  display:flex; 
+  width: 12%;
+  height: 40px;
+  justify-content: center;
+  align-items: center;
+  margin: 5% 44%; 
+  background-color: green;
+  color: #fff; 
+  border-radius: 5px;
+  cursor: pointer; 
+}
+
+.title {
+  background-color: #000;
+  color: #d15e8a; 
+  height: 30px; 
+  text-align: center;
+  line-height: 30px;
+}
+
+.img{
+  background-image: url(./Img/Img1.jpg);
+  /* background-size: 100%; */
+  background-repeat: no-repeat;
+  height: 100vh; 
+}
+
+.task3 p{
+  width: 30%;
+}
+
+.task3 {
+  margin-left: 3%;
+}
