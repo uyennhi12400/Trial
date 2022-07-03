@@ -19,13 +19,6 @@
   line-height: 30px;
 }
 
-.img{
-  background-image: url(./Img/Img1.jpg);
-  /* background-size: 100%; */
-  background-repeat: no-repeat;
-  height: 100vh; 
-}
-
 .task3 p{
   width: 30%;
 }
